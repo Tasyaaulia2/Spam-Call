@@ -1,13 +1,18 @@
-# New Spam Call
-
+# Spam Call
 ```
-Tools Spam Call Terbaru Ini Di Ciptakan Untuk Ngeprank Temen Lu
-Yg Suka Mabar Game Online Auto Ngelag Awokawok :)
-
+Tools ini dibuat untuk ngerjain
+Kang Ripper atau boleh juga buat
+nyepam Mantan Lu awokawokwkwk:v
 ```
-# Info
+> Script ini sewaktu-waktu bisa jadi limit ataupun coid jadi jangan salahin author nya ya goblok.
+## How to it?
+```python
+$ cd spam-call
+$ bash install.sh
 ```
-Author Tdk Bertanggungjawab Kalo Ada Masalah Berkaitan Dg Tools Ini
-Dan Jangan Lupa Kalo Udah Nyepam Minta Maaf Ya ^_^
-
-```
+> Get Token [click here]()
+## Support Me On
+<b>• [Facebook](https://m.facebook.com/dhasilva.junior.3)</b>
+<br>
+<b>• [Youtube](https://www.youtube.com/channel/UCLRXFyMN0L8yH9F-xxOd7Og)</b>
+</br>
