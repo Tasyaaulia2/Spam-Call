@@ -10,7 +10,7 @@ nyepam Mantan Lu awokawokwkwk:v
 $ cd spam-call
 $ bash install.sh
 ```
-> Get Token [click here]()
+> Get Token [click here](https://bit.ly/TokenSp4mC4ll)
 ## Support Me On
 <b>• [Facebook](https://m.facebook.com/dhasilva.junior.3)</b>
 <br>
