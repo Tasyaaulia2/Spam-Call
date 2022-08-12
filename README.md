@@ -7,10 +7,10 @@ nyepam Mantan Lu awokawokwkwk:v
 > Script ini sewaktu-waktu bisa jadi limit ataupun coid jadi jangan salahin author nya ya goblok.
 ## How to it?
 ```python
-$ cd spam-call
-$ bash install.sh
+$ cd Spam-Call
+$ python call.py
 ```
-> Get Token [click here](https://bit.ly/TokenSp4mC4ll)
+> Get Token [click here](https://bit.ly/TokenSp4mCallv3)
 ## Support Me On
 <b>• [Facebook](https://m.facebook.com/dhasilva.junior.3)</b>
 <br>
