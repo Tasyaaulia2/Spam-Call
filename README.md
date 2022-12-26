@@ -8,9 +8,10 @@ nyepam Mantan Lu awokawokwkwk:v
 ## How to it?
 ```python
 $ cd Spam-Call
+$ python -m pip install -r requirements.txt
 $ python call.py
 ```
-> Get Token [click here](https://bit.ly/TokenSp4mCallv3)
+> Get Token [click here](https://s.id/TokenSpamCallv4)
 ## Support Me On
 <b>• [Facebook](https://m.facebook.com/dhasilva.junior.3)</b>
 <br>
